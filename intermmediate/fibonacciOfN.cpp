@@ -1,6 +1,14 @@
 #include <iostream>
 using namespace std;
 
+/*
+Problem 21: Fibonacci Number
+Given N, calculate the Nth Fibonacci number.
+
+The sequence begins with \(F_0=0\), \(F_1=1\), and each succeeding number is the sum of the previous two.
+
+*/
+
 int main() {
     int N;
     cin >> N;
